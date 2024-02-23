@@ -2,7 +2,7 @@
 
 # Preview
 
-Nguo Store is the project creaded from the design shared in figma (https://www.figma.com/community/file/1131440097475381135/e-commerce-app-design).
+Nguo Store is the project created from the design shared in figma (https://www.figma.com/community/file/1131440097475381135/e-commerce-app-design).
 
 ## Tech
 
@@ -24,10 +24,17 @@ Here are these steps to run the project locally
 # ScreenShots
 
 **HOME SCREEN** <br>
+
+<img src="./screenshots/home.png" width=390 height=844>
 <img src="./screenshots/home.gif" width=390 height=844> <br>
 
 **PRODUCT SCREEN** <br>
+<img src="./screenshots/product.png" width=390 height=844>
 <img src="./screenshots/product.gif" width=390 height=844> <br>
 
-**SIGNIN SCREEN** <br>
-<img src="./screenshots/account.gif" width=390 height=844> <br>
+**VIEWALL SCREEN** <br>
+<img src="./screenshots/viewall.gif" width=390 height=844> <br>
+
+**SIGNUP SCREEN** <br>
+<img src="./screenshots/signup.png" width=390 height=844>
+<img src="./screenshots/signup.gif" width=390 height=844> <br>

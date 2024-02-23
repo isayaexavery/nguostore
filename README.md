@@ -25,16 +25,16 @@ Here are these steps to run the project locally
 
 **HOME SCREEN** <br>
 
-<img src="./screenshots/home.png" width=390 height=844>
-<img src="./screenshots/home.gif" width=390 height=844> <br>
+<img src="./screenshots/home.png" width=360 height=800>
+<img src="./screenshots/home.gif" width=360 height=800> <br>
 
 **PRODUCT SCREEN** <br>
-<img src="./screenshots/product.png" width=390 height=844>
-<img src="./screenshots/product.gif" width=390 height=844> <br>
-
-**VIEWALL SCREEN** <br>
-<img src="./screenshots/viewall.gif" width=390 height=844> <br>
+<img src="./screenshots/product.png" width=360 height=800>
+<img src="./screenshots/product.gif" width=360 height=800> <br>
 
 **SIGNUP SCREEN** <br>
-<img src="./screenshots/signup.png" width=390 height=844>
-<img src="./screenshots/signup.gif" width=390 height=844> <br>
+<img src="./screenshots/signup.png" width=360 height=800>
+<img src="./screenshots/signup.gif" width=360 height=800> <br>
+
+**VIEWALL SCREEN** <br>
+<img src="./screenshots/viewall.gif" width=360 height=800> <br>
